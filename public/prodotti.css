@@ -1,0 +1,23 @@
+/* NAVBAR */
+.img-nav {
+    height: 50px;
+    width: 50px;
+    clip-path: circle(50%);
+}
+
+.nav-cust {
+    background: linear-gradient(180deg, #000000, #000000, #001135);
+    transition: 0.9s;
+
+}
+
+.nav-trasp{
+   background: white;
+   transition: 0.9s;
+}
+
+
+.card-custom{
+    height: 60vh;
+    box-shadow: rgba(247, 245, 245, 0.932) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.685) 0px 50px 100px -20px, rgba(0, 0, 0, 0) 0px 30px 60px -30px;
+}
